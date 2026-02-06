@@ -6,7 +6,7 @@ End-to-end healthcare analytics project focused on data cleaning, KPI generation
 ## Tools
 SQL · Power BI · Tableau · Excel
 
-## What I Did
+## Key Work Performed
 - Cleaned and validated healthcare datasets for accuracy and consistency
 - Wrote SQL queries to calculate KPIs (follow-up rate, abnormal lab rate, visit trends)
 - Built interactive dashboards analyzing trends by diagnosis, visit type, gender, and year
