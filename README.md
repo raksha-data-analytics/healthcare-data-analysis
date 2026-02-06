@@ -1,6 +1,4 @@
 # Healthcare Data Analysis
-
-## Overview
 End-to-end healthcare analytics project focused on data cleaning, KPI generation, and dashboard reporting to support decision-making.
 
 ## Tools
